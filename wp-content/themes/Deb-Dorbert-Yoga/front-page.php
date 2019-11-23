@@ -21,7 +21,6 @@ if ( 'posts' == get_option( 'show_on_front' ) ) {
 	?>
 
 	<div id="container" class="fluida-landing-page one-column">
-		<h1>Testing</h1>
 		<main id="main" role="main" class="main">
 		<?php
 		//cryout_before_content_hook();
